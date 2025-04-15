@@ -24,11 +24,11 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-研究方向:
+interests:
   - Artificial Intelligence
   - Computer Vision
 
-课程:
+education:
   courses:
     - course: 数据结构与算法
       institution: 南京大学
@@ -44,10 +44,10 @@ bio: My research interests include distributed robotics, mobile computing and pr
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-# social:
-#   - icon: envelope
-#     icon_pack: fas
-#     link: 'mailto:test@example.org'
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:allanyu@nju.edu.cn'
 #   - icon: twitter
 #     icon_pack: fab
 #     link: https://twitter.com/GeorgeCushen

@@ -1,16 +1,16 @@
 ---
 # Display name
-title: 周子航
+title: 张瀚
 
 # Full Name (for SEO)
-first_name: 子航
-last_name: 周
+first_name: 瀚
+last_name: 张
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: 2024级硕士
+role: 2022级硕士
 
 # Organizations/Affiliations
 organizations:
@@ -21,9 +21,7 @@ organizations:
 bio: My research interests include point tracking & motion generation.
 
 interests:
-  - Artificial Intelligence
-  - Computer Vision 
-  - Vision-Language-Action Model
+  - face reconstruction
 
 # education:
 #   courses:

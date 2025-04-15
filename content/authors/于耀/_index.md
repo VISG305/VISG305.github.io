@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Allan Yu 于耀
+title: 于耀 Allan Yu
 
 # Full name (for SEO)
 first_name: 耀
@@ -24,21 +24,21 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-interests:
+研究方向:
   - Artificial Intelligence
   - Computer Vision
 
-education:
+课程:
   courses:
     - course: 数据结构与算法
       institution: 南京大学
       year: 2025
     - course: C++与面向对象程序设计
       institution: 南京大学
-      year: 2016
+      year: 2016-至今
     - course: 概率论与随机过程
       institution: 南京大学
-      year: 2017
+      year: 2017-至今
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons

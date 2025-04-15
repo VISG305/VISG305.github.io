@@ -21,8 +21,8 @@ organizations:
 bio: My research interests include point tracking & motion generation.
 
 interests:
-  - face reconstruction
-  - Multi-Modality
+  - 人脸重建
+  - 多模态
 
 # education:
 #   courses:

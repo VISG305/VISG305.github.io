@@ -21,7 +21,8 @@ organizations:
 bio: My research interests include point tracking & motion generation.
 
 interests:
-  - human body reconstruction
+  - SMPL人体重建
+  - 头发渲染
 
 # education:
 #   courses:

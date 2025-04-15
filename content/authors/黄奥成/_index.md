@@ -21,8 +21,7 @@ organizations:
 bio: My research interests include point tracking & motion generation.
 
 interests:
-  - haircut generation
-  - muti-modality
+  - 头发的重建与生成
 
 # education:
 #   courses:

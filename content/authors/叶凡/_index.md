@@ -21,7 +21,7 @@ organizations:
 bio: My research interests include point tracking & motion generation.
 
 interests:
-  - Segmentation
+  - 图像分割
 
 # education:
 #   courses:

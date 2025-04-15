@@ -21,8 +21,8 @@ organizations:
 bio: My research interests include point tracking & motion generation.
 
 interests:
-  - human body reconstruction
-  - 3D Gaussian Splatting
+  - 人体重建
+  - 4D Gaussian Splatting
 
 # education:
 #   courses:

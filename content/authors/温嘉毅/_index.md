@@ -21,7 +21,7 @@ organizations:
 bio: My research interests include point tracking & motion generation.
 
 interests:
-  - simulation
+  - 衣物仿真
 # education:
 #   courses:
 #     - course: PhD in Artificial Intelligence

@@ -21,8 +21,6 @@ organizations:
 bio: My research interests include point tracking & motion generation.
 
 interests:
-  - Artificial Intelligence
-  - Computer Vision
 
 # education:
 #   courses:

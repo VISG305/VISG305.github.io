@@ -21,9 +21,9 @@ organizations:
 bio: My research interests include point tracking & motion generation.
 
 interests:
-  - human pose estimation
-  - point tracking
-  - motion generation
+  - 人体姿态估计
+  - 像素点追踪
+  - 动作生成
 
 # education:
 #   courses:

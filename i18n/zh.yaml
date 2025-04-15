@@ -3,3 +3,15 @@
 
 - id: education
   translation: 教授课程
+
+- id: home
+  translation: 首页
+
+- id: blog
+  translation: 博客
+
+- id: Members
+  translation: 成员
+
+- id: contact
+  translation: 联系方式

@@ -24,8 +24,8 @@ content:
     country: 
     country_code:  
   coordinates:
-    latitude: '32.11079'
-    longitude: '118.96175'
+    latitude: '32.1129'
+    longitude: '118.9567'
   directions: 电子科学与工程学院三楼305室
   office_hours:
     - '工作日： 14：00-17：00'

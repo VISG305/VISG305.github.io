@@ -21,7 +21,7 @@ organizations:
 bio: My research interests include point tracking & motion generation.
 
 interests:
-  - Game Engine
+  - 游戏引擎
 
 # education:
 #   courses:

@@ -1,16 +1,20 @@
 ---
 # Display name
-title: 周子航
+title: Nack Zhou 周余
 
-# Full Name (for SEO)
-first_name: 子航
+# Full name (for SEO)
+first_name: 余
 last_name: 周
+
+# Username (this should match the folder name)
+authors:
+  - 周余
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: 2024级硕士
+role: 副教授
 
 # Organizations/Affiliations
 organizations:
@@ -18,24 +22,17 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include point tracking & motion generation.
+bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
   - Artificial Intelligence
-  - Computer Vision 
-  - Vision-Language-Action Model
+  - Computer Vision
 
-# education:
-#   courses:
-#     - course: PhD in Artificial Intelligence
-#       institution: Stanford University
-#       year: 2012
-#     - course: MEng in Artificial Intelligence
-#       institution: Massachusetts Institute of Technology
-#       year: 2009
-#     - course: BSc in Artificial Intelligence
-#       institution: Massachusetts Institute of Technology
-#       year: 2008
+education:
+  courses:
+    - course: 数据结构与算法
+      institution: 南京大学
+      year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -61,17 +58,10 @@ interests:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
-
-# Highlight the author in author lists? (true/false)
-highlight_name: false
+email: 'nackzhou@nju.edu.cn'
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - 硕士
+  - 教师
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.

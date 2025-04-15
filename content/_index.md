@@ -13,7 +13,8 @@ sections:
         filename: union.jpg
       text: |
         <br>
-        **ViSG**(Visual Sensing and Graphics)实验室创建于1998年，依托于南京大学电子科学与工程学院电路与系统二级学科。实验室研究方向包括：视觉智能感知、三维重建、生物医学图像处理等。
+        
+          **ViSG**(Visual Sensing and Graphics)实验室创建于1998年，依托于南京大学电子科学与工程学院电路与系统二级学科。实验室研究方向包括：视觉智能感知、三维重建、生物医学图像处理等。
   # - block: collection
   #   content:
   #     title: Latest News

@@ -18,9 +18,10 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include point tracking & motion generation.
+# bio: My research interests include point tracking & motion generation.
 
 interests:
+  - 脊柱侧弯的X光片检测
 
 # education:
 #   courses:

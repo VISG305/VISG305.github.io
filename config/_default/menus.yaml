@@ -4,13 +4,13 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: home
+  - name: 首页
     url: /
     weight: 10
-  - name: blog
+  - name: 博客
     url: post
     weight: 20
-  - name: Members
+  - name: 成员
     url: people
     weight: 30
   # - name: Events
@@ -19,6 +19,6 @@ main:
   # - name: Publications
   #   url: publication
   #   weight: 50
-  - name: Contact
+  - name: 联系方式
     url: contact
     weight: 60

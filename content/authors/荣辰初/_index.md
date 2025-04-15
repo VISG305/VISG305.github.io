@@ -18,7 +18,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include point tracking & motion generation.
+# bio: My research interests include point tracking & motion generation.
 
 interests:
   - 头发重建与生成
